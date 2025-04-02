@@ -254,7 +254,7 @@ var SiteFooter = /*#__PURE__*/function (_React$Component) {
         "class": "mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 lg:mt-24"
       }, /*#__PURE__*/React.createElement("p", {
         "class": "text-sm leading-5 text-gray-500"
-      }, "\u06F2\u06F0\u06F1\u06F2 \u2013 \u06F2\u06F0\u06F2\u06F4 \xA9 \u0627\u06CC\u0631\u0627\u0646 \u0622\u06A9\u0627\u062F\u0645\u06CC\u0627")))), /*#__PURE__*/React.createElement("div", {
+      }, "\u06F2\u06F0\u06F1\u06F2 \u2013 \u06F2\u06F0\u06F2\u06F5 \xA9 \u0627\u06CC\u0631\u0627\u0646 \u0622\u06A9\u0627\u062F\u0645\u06CC\u0627")))), /*#__PURE__*/React.createElement("div", {
         "class": "bg-gray-900",
         style: "direction: ltr;"
       }, /*#__PURE__*/React.createElement("div", {

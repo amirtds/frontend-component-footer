@@ -35,8 +35,7 @@ class SiteFooter extends React.Component {
 
     return (
       <>
-          <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
-
+        <script src="https://cdn.jsdelivr.net/npm/@tailwindcss/browser@4"></script>
         <footer
           class="bg-white border-t-8 border-sky-500"
           aria-labelledby="footer-heading"
@@ -317,7 +316,7 @@ class SiteFooter extends React.Component {
             </div>
             <div class="mt-16 border-t border-gray-900/10 pt-8 sm:mt-20 lg:mt-24">
               <p class="text-sm leading-5 text-gray-500">
-                ۲۰۱۲ – ۲۰۲۴ © ایران آکادمیا
+                ۲۰۱۲ – ۲۰۲۵ © ایران آکادمیا
               </p>
             </div>
           </div>
